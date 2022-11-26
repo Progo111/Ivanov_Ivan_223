@@ -1,7 +1,6 @@
 
 #include "header.hpp"
 
-
 int main(int argc, char **argv) {
     const char *buf_name = "bufer.txt";
     size_t count = 0;
